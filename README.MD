@@ -12,7 +12,7 @@ Esse projeto  foi desenvolvido durante o Curso - Explorer da Rocketseat com as s
 - CSS
 - Git e Github
 
-Para ver mais funcionalidades do site, acesse [link](https://guilhermesousag.github.io/02-Projeto---Explorer--Tela-de-site---acompanhando-/)
+Para ver mais funcionalidades do site, acesse o [link](https://guilhermesousag.github.io/02-Projeto---Explorer--Tela-de-site---acompanhando-/)
 
 ## 🏷️ Layout
 Você pode visualizar o layout do projeto através
